@@ -1,0 +1,14 @@
+{
+  "name": "Scene",
+  "version": "1.6.1",
+  "manifest_version": 1,
+  "description": "Automatically play direct video files and supported embedded players for everyone in the current Owlbear Rodeo room.",
+  "background_url": "/background.html",
+  "action": {
+    "title": "Scene",
+    "icon": "/icon.svg",
+    "popover": "/",
+    "width": 400,
+    "height": 640
+  }
+}
